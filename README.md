@@ -14,4 +14,4 @@ I specialize in [Frontend/Backend/Full Stack] development, building [websites, a
 
 ## 🌍 Connect with Me  
 - *GitHub:* [github.com/RiteshYadav0021](https://github.com/RiteshYadav0021)  
-- *LinkedIn:* [linkedin.com/in/yourprofile (Ritesh Yadav)  
+- *LinkedIn:* [linkedin.com/in/Ritesh Yadav (Ritesh Yadav)  
